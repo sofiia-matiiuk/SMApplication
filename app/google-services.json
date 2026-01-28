@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275093768949",
+    "project_id": "smapplication-f8084",
+    "storage_bucket": "smapplication-f8084.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275093768949:android:00969f19c0afa3aef993bc",
+        "android_client_info": {
+          "package_name": "com.sofiia.smapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275093768949-nrhpjkd4qlf4g95vmdtjton4i5r4ai64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofiia.smapplication",
+            "certificate_hash": "6d16539ce1711efc5aaaabd4a194c39b7cffe489"
+          }
+        },
+        {
+          "client_id": "275093768949-5gc8q16onm4pfgsfho1t6ek4kjls672q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCknPXefOEvaQd1-wwb6lKbMSFQxDXuGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275093768949-5gc8q16onm4pfgsfho1t6ek4kjls672q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
